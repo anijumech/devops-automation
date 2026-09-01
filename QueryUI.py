@@ -1,0 +1,1 @@
+question = input("What you want to know?")
